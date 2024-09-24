@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yeferson Nova</h1>
-<h3 align="center">Apasionado desarrollador de software especializado en Backend Java y PowerPlatform de Bogotá, Colombia</h3>
+<h3 align="center">Apasionado desarrollador de software especializado en Backend Java, C#, .net y PowerPlatform de Bogotá, Colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeferson-nova&label=Profile%20views&color=0e75b6&style=flat" alt="yeferson-nova" /> </p>
 
